@@ -1,0 +1,20 @@
+{
+  "type": "challenge",
+  "questions": [
+    {
+      "question": "1_task.md",
+      "verify": "1_verify.sh",
+      "hint": "1_hint.md"
+    },
+    {
+      "question": "2_task.md",
+      "verify": "2_verify.sh",
+      "hint": "2_hint.md"
+    },
+    {
+      "question": "3_task.md",
+      "verify": "3_verify.sh",
+      "hint": "3_hint.md"
+    }
+  ]
+}
